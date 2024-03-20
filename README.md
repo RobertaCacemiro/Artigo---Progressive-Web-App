@@ -25,7 +25,7 @@ Para que uma aplicação web seja classificada como uma Progressive Web App (PWA
 Abaixo estão os princípios essenciais que uma aplicação web deve seguir para ser reconhecida como uma PWA:
 
   * **Descoberta**: A aplicação deve ser indexada e encontrável em mecanismos de busca;
-  * **Instalabilidade**: Deve ser instalável, permitindo que os usuários adicionem o ícone do aplicativo à tela inicial do dispositivo;
+  * **Instabilidade**: Deve ser instalável, permitindo que os usuários adicionem o ícone do aplicativo à tela inicial do dispositivo;
   * **Compartilhamento**: Deve ser facilmente compartilhável por meio de uma URL;
   * **Funcionamento Offline**: Deve ser capaz de funcionar sem conexão com a internet ou em condições de conexão instável;
   * **Aprimoramento Progressivo**: Deve adotar o conceito de aprimoramento progressivo, oferecendo funcionalidades básicas em navegadores mais antigos e adicionando recursos avançados em navegadores modernos;
