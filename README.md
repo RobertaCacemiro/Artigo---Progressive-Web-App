@@ -49,7 +49,11 @@ O conceito de Service Worker permite funcionalidades offline, melhorando a exper
 
 ## Referências: 
 
-  *
+  * CUBOS ACADEMY. O que são Service Workers e como usá-los com React? Disponível em: <https://blog.cubos.academy/programacao-o-que-sao-service-workers/>. Acesso em: 20 mar. 2024.
+  * DIGITAIS, R. Saiba o que é um Progressive Web App (PWA) e quais são as vantagens desse tipo de aplicação. Disponível em: <https://resultadosdigitais.com.br/marketing/pwa/>. Acesso em: 20 mar. 2024.
+  * FERNANDES, D. PWA: O que é? Vale a pena? Quando utilizar? Disponível em: <https://blog.rocketseat.com.br/pwa-o-que-e-quando-utilizar/>. Acesso em: 20 mar. 2024.
+  * KOVACS, L. O que é PWA? [Progressive Web App]. Disponível em: <https://tecnoblog.net/responde/o-que-e-pwa-progressive-web-app/>. Acesso em: 20 mar. 2024.
+  * LIMA, M. Como criar seu primeiro Progressive Web App do Zero. Disponível em: <https://medium.com/tableless/como-criar-seu-primeiro-progressive-web-app-do-zero-a7e6ca5fb21e>. Acesso em: 20 mar. 2024.
 
 
 
